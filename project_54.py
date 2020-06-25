@@ -1,17 +1,16 @@
 # How to bubble sort elements in array?
-from random import  randint
+from random import randint
+
 x = 20
-y = []
+array = []
 
 for i in range(x):
-    y.append(randint(1,20))
-print(f'Unsorted:{y}')
+    array.append(randint(1, 20))
+print(f'Unsorted:{array}')
 
 for i in range(x):
-    for j in range(x-i-1):    # double loop to compare 1 element to all
-        if y[j] > y[j+1]:
-            z = y[j]    # y[j] is assigned in z to use this in latter step
-            y[j] = y[j+1]
-            y[j+1] = z
+    for j in range(x - i - 1):
+        if array[j] > array[j + 1]:
+            array[j], array[j + 1] = array[j + 1], array[j]
 
-print(f'Sorted:{y}')
+print(f'Sorted:{array}')
