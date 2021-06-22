@@ -1,0 +1,188 @@
+Practice 1. How to detect
+Positive and Negative Numbers
+
+Practice 2. How to check for
+Even and odd Numbers
+
+Practice 3. How to check for
+Greatest of 3 Numbers
+
+Practice 4. How to check for
+divisibility of a Number
+
+Practice 5. How to convert
+from Celsius to Fahrenheit
+
+Practice 6. How to convert
+from Fahrenheit to Celsius
+
+Practice 7. How to create a
+calendar
+
+Practice 8. How to calculate
+Mass, Density and Volume
+
+Practice 9 How to detere
+the quadrant of a point
+
+Practice 10. How to
+detere if a Triangle exist
+
+Practice 11. How to check
+for Leap year
+
+Practice 12. How to check if
+a point belongs to Circle
+
+Practice 13. How to create
+quadratic Equation
+
+Practice 14. How to make
+ques of Random number
+
+Practice 15. How to print
+out the ASCII Table
+
+Practice 16. How to create a
+Multiplication Table using whil...
+
+Practice 17. How to create
+Multiplication Table using for I...
+
+Practice 18. How to convert
+from base 2 to 9
+
+Practice 19. How to build a
+simple Calculator
+
+Practice 20. Number of
+digits in an Integer
+
+Practice 21. How to get Sum
+and Product of digits
+
+Practice 22. How to make a
+Binary search of number in an..
+
+Practice 23. How to sum of
+N series of an element
+
+Practice 24. How to get
+value of Even and Odd digits
+
+27. Practice 25. How to get a
+Factorial using a while loop
+
+28. Practice 26. How to get
+Factorial using for loop
+
+29. Practice 27. How to create a
+Fibonacci Sequence
+
+30. Practice 28. How to get the
+value of Fibonacci Element
+
+31. Practice 29. How to get find
+the Greatest Common Divisor
+
+32. Practice 30. How to
+maximum value of a floating p...
+
+
+33. Congratulations on your
+journey! Never stop learning...
+1
+34. Practice 31. How to get
+Prime and Complex Numbers
+6
+35. Practice 32. Quadratic
+Equation with Solutions at spe...
+• 10 
+36. Practice 33. How to
+Reverse Numbers
+• 4
+ V
+37. Practice 34. How to expand
+Strings of Alphabet
+D 3
+38. Practice 35. How to
+Replace a Substring of a String
+5
+39. Practice 36. How to select
+Integers from String
+• 7 
+40. Practice 37. How to sort
+words according to their length
+7
+ V
+41. Practice 38. How to find the
+longest word in a String
+D 4
+42. Practice 39. How to get
+Percentage of Uppercase and
+5 
+43. Practice 40. How to check
+for String Palindrome
+- 3
+44. Congratulations on your
+journey! Never stop learning...
+1
+45. Practice 41. How to
+generate Random numbers us...
+4
+ V
+46. Practice 42. How to get the
+Maximum Element in an Array
+4 
+47. Practice 43. How to get the
+imum Element in an Array
+4
+ v
+48. Practice 44. How to get the
+Number of Even and Odd num...
+4
+ v
+49. Practice 45. How to get
+Positive numbers out of Negat...
+5
+ V
+50. Practice 46. How to get
+numbers greater than the aver.
+5
+ v
+51. Practice 47. How to Replace
+list-items with -1, 0, 1
+5 
+52. Practice 48. How to check
+for File Extension
+5
+ V
+53. Practice 49. How to remove
+symbols from Text
+D 8
+54. Practice 50. How to get
+Intersection of list using for lo...
+56. Practice 51. Simple
+Intersection of List
+• 2
+57. Practice 52. Longest
+ordered sequence in ascendin...
+• 7
+58. Practice 53. How to get the
+most occurrence Element
+6
+59. Practice 54. How to bubble
+sort elements of an Array
+- 5
+60. Practice 55. How to sort
+Array using Selection sorting
+6
+61. Practice 56. How to
+generate Matrix of Random nu...
+D 5 
+62. Practice 57. How to get the
+rows and columns with maxim...
+• 10
+63. Practice 58. Sum items in
+rows and columns of elements
+8
